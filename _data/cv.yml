@@ -28,11 +28,11 @@
         - Description 1.
         - Description 2.
 
-- title: Experience
+- title: Past Events
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
+    - title: Panel discussion
+      institution: 
       year: 1933 - 1955
       description:
         - Description 1.
@@ -79,7 +79,7 @@
       items:
         - Max Planck Medal
 
-- title: Academic Interests
+- title: Past Panel Discussions
   type: nested_list
   contents:
     - title: Topic 1.
